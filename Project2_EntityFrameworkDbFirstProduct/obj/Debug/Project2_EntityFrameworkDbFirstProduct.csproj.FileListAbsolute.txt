@@ -1,0 +1,16 @@
+C:\Users\e\source\repos\MyUdemy20Project\Project2_EntityFrameworkDbFirstProduct\bin\Debug\Project2_EntityFrameworkDbFirstProduct.exe.config
+C:\Users\e\source\repos\MyUdemy20Project\Project2_EntityFrameworkDbFirstProduct\bin\Debug\Project2_EntityFrameworkDbFirstProduct.exe
+C:\Users\e\source\repos\MyUdemy20Project\Project2_EntityFrameworkDbFirstProduct\bin\Debug\Project2_EntityFrameworkDbFirstProduct.pdb
+C:\Users\e\source\repos\MyUdemy20Project\Project2_EntityFrameworkDbFirstProduct\bin\Debug\EntityFramework.dll
+C:\Users\e\source\repos\MyUdemy20Project\Project2_EntityFrameworkDbFirstProduct\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\e\source\repos\MyUdemy20Project\Project2_EntityFrameworkDbFirstProduct\bin\Debug\EntityFramework.xml
+C:\Users\e\source\repos\MyUdemy20Project\Project2_EntityFrameworkDbFirstProduct\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\e\source\repos\MyUdemy20Project\Project2_EntityFrameworkDbFirstProduct\obj\Debug\Project2_EntityFrameworkDbFirstProduct.csproj.AssemblyReference.cache
+C:\Users\e\source\repos\MyUdemy20Project\Project2_EntityFrameworkDbFirstProduct\obj\Debug\Project2_EntityFrameworkDbFirstProduct.FrmCategory.resources
+C:\Users\e\source\repos\MyUdemy20Project\Project2_EntityFrameworkDbFirstProduct\obj\Debug\Project2_EntityFrameworkDbFirstProduct.Properties.Resources.resources
+C:\Users\e\source\repos\MyUdemy20Project\Project2_EntityFrameworkDbFirstProduct\obj\Debug\Project2_EntityFrameworkDbFirstProduct.csproj.GenerateResource.cache
+C:\Users\e\source\repos\MyUdemy20Project\Project2_EntityFrameworkDbFirstProduct\obj\Debug\Project2_EntityFrameworkDbFirstProduct.csproj.CoreCompileInputs.cache
+C:\Users\e\source\repos\MyUdemy20Project\Project2_EntityFrameworkDbFirstProduct\obj\Debug\Project2.57B19456.Up2Date
+C:\Users\e\source\repos\MyUdemy20Project\Project2_EntityFrameworkDbFirstProduct\obj\Debug\Project2_EntityFrameworkDbFirstProduct.exe
+C:\Users\e\source\repos\MyUdemy20Project\Project2_EntityFrameworkDbFirstProduct\obj\Debug\Project2_EntityFrameworkDbFirstProduct.pdb
+C:\Users\e\source\repos\MyUdemy20Project\Project2_EntityFrameworkDbFirstProduct\obj\Debug\Project2_EntityFrameworkDbFirstProduct.FrmProduct.resources

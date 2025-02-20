@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\e\\source\\repos\\MyUdemy20Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9DA91844-0E80-453D-A2F2-76F385E718F6}|Project1_AdonetCustomer\\Project1_AdonetCustomer.csproj|c:\\users\\e\\source\\repos\\myudemy20project\\project1_adonetcustomer\\frmcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DA91844-0E80-453D-A2F2-76F385E718F6}|Project1_AdonetCustomer\\Project1_AdonetCustomer.csproj|solutionrelative:project1_adonetcustomer\\frmcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FD77C0B4-A9E5-46F9-8381-3F9D70020607}|Project2_EntityFrameworkDbFirstProduct\\Project2_EntityFrameworkDbFirstProduct.csproj|c:\\users\\e\\source\\repos\\myudemy20project\\project2_entityframeworkdbfirstproduct\\frmproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD77C0B4-A9E5-46F9-8381-3F9D70020607}|Project2_EntityFrameworkDbFirstProduct\\Project2_EntityFrameworkDbFirstProduct.csproj|solutionrelative:project2_entityframeworkdbfirstproduct\\frmproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9DA91844-0E80-453D-A2F2-76F385E718F6}|Project1_AdonetCustomer\\Project1_AdonetCustomer.csproj|c:\\users\\e\\source\\repos\\myudemy20project\\project1_adonetcustomer\\frmcity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DA91844-0E80-453D-A2F2-76F385E718F6}|Project1_AdonetCustomer\\Project1_AdonetCustomer.csproj|solutionrelative:project1_adonetcustomer\\frmcity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FD77C0B4-A9E5-46F9-8381-3F9D70020607}|Project2_EntityFrameworkDbFirstProduct\\Project2_EntityFrameworkDbFirstProduct.csproj|c:\\users\\e\\source\\repos\\myudemy20project\\project2_entityframeworkdbfirstproduct\\frmcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD77C0B4-A9E5-46F9-8381-3F9D70020607}|Project2_EntityFrameworkDbFirstProduct\\Project2_EntityFrameworkDbFirstProduct.csproj|solutionrelative:project2_entityframeworkdbfirstproduct\\frmcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9DA91844-0E80-453D-A2F2-76F385E718F6}|Project1_AdonetCustomer\\Project1_AdonetCustomer.csproj|c:\\users\\e\\source\\repos\\myudemy20project\\project1_adonetcustomer\\frmcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9DA91844-0E80-453D-A2F2-76F385E718F6}|Project1_AdonetCustomer\\Project1_AdonetCustomer.csproj|solutionrelative:project1_adonetcustomer\\frmcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{FD77C0B4-A9E5-46F9-8381-3F9D70020607}|Project2_EntityFrameworkDbFirstProduct\\Project2_EntityFrameworkDbFirstProduct.csproj|c:\\users\\e\\source\\repos\\myudemy20project\\project2_entityframeworkdbfirstproduct\\frmproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FD77C0B4-A9E5-46F9-8381-3F9D70020607}|Project2_EntityFrameworkDbFirstProduct\\Project2_EntityFrameworkDbFirstProduct.csproj|solutionrelative:project2_entityframeworkdbfirstproduct\\frmproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9DA91844-0E80-453D-A2F2-76F385E718F6}|Project1_AdonetCustomer\\Project1_AdonetCustomer.csproj|c:\\users\\e\\source\\repos\\myudemy20project\\project1_adonetcustomer\\frmmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9DA91844-0E80-453D-A2F2-76F385E718F6}|Project1_AdonetCustomer\\Project1_AdonetCustomer.csproj|solutionrelative:project1_adonetcustomer\\frmmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9DA91844-0E80-453D-A2F2-76F385E718F6}|Project1_AdonetCustomer\\Project1_AdonetCustomer.csproj|c:\\users\\e\\source\\repos\\myudemy20project\\project1_adonetcustomer\\frmmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DA91844-0E80-453D-A2F2-76F385E718F6}|Project1_AdonetCustomer\\Project1_AdonetCustomer.csproj|solutionrelative:project1_adonetcustomer\\frmmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FD77C0B4-A9E5-46F9-8381-3F9D70020607}|Project2_EntityFrameworkDbFirstProduct\\Project2_EntityFrameworkDbFirstProduct.csproj|c:\\users\\e\\source\\repos\\myudemy20project\\project2_entityframeworkdbfirstproduct\\frmcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FD77C0B4-A9E5-46F9-8381-3F9D70020607}|Project2_EntityFrameworkDbFirstProduct\\Project2_EntityFrameworkDbFirstProduct.csproj|solutionrelative:project2_entityframeworkdbfirstproduct\\frmcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,69 +26,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FrmCity.cs",
-              "DocumentMoniker": "C:\\Users\\e\\source\\repos\\MyUdemy20Project\\Project1_AdonetCustomer\\FrmCity.cs",
-              "RelativeDocumentMoniker": "Project1_AdonetCustomer\\FrmCity.cs",
-              "ToolTip": "C:\\Users\\e\\source\\repos\\MyUdemy20Project\\Project1_AdonetCustomer\\FrmCity.cs",
-              "RelativeToolTip": "Project1_AdonetCustomer\\FrmCity.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAowEYAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T13:51:20.382Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "FrmCustomer.cs",
-              "DocumentMoniker": "C:\\Users\\e\\source\\repos\\MyUdemy20Project\\Project1_AdonetCustomer\\FrmCustomer.cs",
-              "RelativeDocumentMoniker": "Project1_AdonetCustomer\\FrmCustomer.cs",
-              "ToolTip": "C:\\Users\\e\\source\\repos\\MyUdemy20Project\\Project1_AdonetCustomer\\FrmCustomer.cs",
-              "RelativeToolTip": "Project1_AdonetCustomer\\FrmCustomer.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAswEgAAAAMAAAAAAAAAA==",
+              "Title": "FrmProduct.cs",
+              "DocumentMoniker": "C:\\Users\\e\\source\\repos\\MyUdemy20Project\\Project2_EntityFrameworkDbFirstProduct\\FrmProduct.cs",
+              "RelativeDocumentMoniker": "Project2_EntityFrameworkDbFirstProduct\\FrmProduct.cs",
+              "ToolTip": "C:\\Users\\e\\source\\repos\\MyUdemy20Project\\Project2_EntityFrameworkDbFirstProduct\\FrmProduct.cs",
+              "RelativeToolTip": "Project2_EntityFrameworkDbFirstProduct\\FrmProduct.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAADwv0AAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T16:03:30.652Z",
+              "WhenOpened": "2025-02-20T18:15:58.604Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "FrmCustomer.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\e\\source\\repos\\MyUdemy20Project\\Project1_AdonetCustomer\\FrmCustomer.cs",
-              "RelativeDocumentMoniker": "Project1_AdonetCustomer\\FrmCustomer.cs",
-              "ToolTip": "C:\\Users\\e\\source\\repos\\MyUdemy20Project\\Project1_AdonetCustomer\\FrmCustomer.cs [Design]",
-              "RelativeToolTip": "Project1_AdonetCustomer\\FrmCustomer.cs [Design]",
+              "Title": "FrmProduct.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\e\\source\\repos\\MyUdemy20Project\\Project2_EntityFrameworkDbFirstProduct\\FrmProduct.cs",
+              "RelativeDocumentMoniker": "Project2_EntityFrameworkDbFirstProduct\\FrmProduct.cs",
+              "ToolTip": "C:\\Users\\e\\source\\repos\\MyUdemy20Project\\Project2_EntityFrameworkDbFirstProduct\\FrmProduct.cs [Design]",
+              "RelativeToolTip": "Project2_EntityFrameworkDbFirstProduct\\FrmProduct.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T15:42:29.996Z",
+              "WhenOpened": "2025-02-20T17:52:34.442Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FrmMap.cs",
-              "DocumentMoniker": "C:\\Users\\e\\source\\repos\\MyUdemy20Project\\Project1_AdonetCustomer\\FrmMap.cs",
-              "RelativeDocumentMoniker": "Project1_AdonetCustomer\\FrmMap.cs",
-              "ToolTip": "C:\\Users\\e\\source\\repos\\MyUdemy20Project\\Project1_AdonetCustomer\\FrmMap.cs",
-              "RelativeToolTip": "Project1_AdonetCustomer\\FrmMap.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBwAAAAfAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "FrmCategory.cs",
+              "DocumentMoniker": "C:\\Users\\e\\source\\repos\\MyUdemy20Project\\Project2_EntityFrameworkDbFirstProduct\\FrmCategory.cs",
+              "RelativeDocumentMoniker": "Project2_EntityFrameworkDbFirstProduct\\FrmCategory.cs",
+              "ToolTip": "C:\\Users\\e\\source\\repos\\MyUdemy20Project\\Project2_EntityFrameworkDbFirstProduct\\FrmCategory.cs",
+              "RelativeToolTip": "Project2_EntityFrameworkDbFirstProduct\\FrmCategory.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwB8AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T15:36:43.828Z",
+              "WhenOpened": "2025-02-20T15:40:39.137Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "FrmMap.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\e\\source\\repos\\MyUdemy20Project\\Project1_AdonetCustomer\\FrmMap.cs",
-              "RelativeDocumentMoniker": "Project1_AdonetCustomer\\FrmMap.cs",
-              "ToolTip": "C:\\Users\\e\\source\\repos\\MyUdemy20Project\\Project1_AdonetCustomer\\FrmMap.cs [Design]",
-              "RelativeToolTip": "Project1_AdonetCustomer\\FrmMap.cs [Design]",
+              "Title": "FrmCategory.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\e\\source\\repos\\MyUdemy20Project\\Project2_EntityFrameworkDbFirstProduct\\FrmCategory.cs",
+              "RelativeDocumentMoniker": "Project2_EntityFrameworkDbFirstProduct\\FrmCategory.cs",
+              "ToolTip": "C:\\Users\\e\\source\\repos\\MyUdemy20Project\\Project2_EntityFrameworkDbFirstProduct\\FrmCategory.cs [Design]",
+              "RelativeToolTip": "Project2_EntityFrameworkDbFirstProduct\\FrmCategory.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T15:20:20.494Z",
+              "WhenOpened": "2025-02-19T13:58:20.829Z",
               "EditorCaption": " [Design]"
             }
           ]
