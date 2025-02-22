@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\e\\source\\repos\\MyUdemy20Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FD77C0B4-A9E5-46F9-8381-3F9D70020607}|Project2_EntityFrameworkDbFirstProduct\\Project2_EntityFrameworkDbFirstProduct.csproj|c:\\users\\e\\source\\repos\\myudemy20project\\project2_entityframeworkdbfirstproduct\\frmproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD77C0B4-A9E5-46F9-8381-3F9D70020607}|Project2_EntityFrameworkDbFirstProduct\\Project2_EntityFrameworkDbFirstProduct.csproj|solutionrelative:project2_entityframeworkdbfirstproduct\\frmproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8DFB4E7C-F5C8-48F1-B0AC-1625F91BA322}|Project3_EntityFrameworkStatistics\\Project3_EntityFrameworkStatistics.csproj|c:\\users\\e\\source\\repos\\myudemy20project\\project3_entityframeworkstatistics\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DFB4E7C-F5C8-48F1-B0AC-1625F91BA322}|Project3_EntityFrameworkStatistics\\Project3_EntityFrameworkStatistics.csproj|solutionrelative:project3_entityframeworkstatistics\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FD77C0B4-A9E5-46F9-8381-3F9D70020607}|Project2_EntityFrameworkDbFirstProduct\\Project2_EntityFrameworkDbFirstProduct.csproj|c:\\users\\e\\source\\repos\\myudemy20project\\project2_entityframeworkdbfirstproduct\\frmcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD77C0B4-A9E5-46F9-8381-3F9D70020607}|Project2_EntityFrameworkDbFirstProduct\\Project2_EntityFrameworkDbFirstProduct.csproj|solutionrelative:project2_entityframeworkdbfirstproduct\\frmcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FD77C0B4-A9E5-46F9-8381-3F9D70020607}|Project2_EntityFrameworkDbFirstProduct\\Project2_EntityFrameworkDbFirstProduct.csproj|c:\\users\\e\\source\\repos\\myudemy20project\\project2_entityframeworkdbfirstproduct\\frmproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{FD77C0B4-A9E5-46F9-8381-3F9D70020607}|Project2_EntityFrameworkDbFirstProduct\\Project2_EntityFrameworkDbFirstProduct.csproj|solutionrelative:project2_entityframeworkdbfirstproduct\\frmproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FD77C0B4-A9E5-46F9-8381-3F9D70020607}|Project2_EntityFrameworkDbFirstProduct\\Project2_EntityFrameworkDbFirstProduct.csproj|c:\\users\\e\\source\\repos\\myudemy20project\\project2_entityframeworkdbfirstproduct\\frmcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{FD77C0B4-A9E5-46F9-8381-3F9D70020607}|Project2_EntityFrameworkDbFirstProduct\\Project2_EntityFrameworkDbFirstProduct.csproj|solutionrelative:project2_entityframeworkdbfirstproduct\\frmcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{8DFB4E7C-F5C8-48F1-B0AC-1625F91BA322}|Project3_EntityFrameworkStatistics\\Project3_EntityFrameworkStatistics.csproj|c:\\users\\e\\source\\repos\\myudemy20project\\project3_entityframeworkstatistics\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8DFB4E7C-F5C8-48F1-B0AC-1625F91BA322}|Project3_EntityFrameworkStatistics\\Project3_EntityFrameworkStatistics.csproj|solutionrelative:project3_entityframeworkstatistics\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,51 +23,26 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "FrmProduct.cs",
-              "DocumentMoniker": "C:\\Users\\e\\source\\repos\\MyUdemy20Project\\Project2_EntityFrameworkDbFirstProduct\\FrmProduct.cs",
-              "RelativeDocumentMoniker": "Project2_EntityFrameworkDbFirstProduct\\FrmProduct.cs",
-              "ToolTip": "C:\\Users\\e\\source\\repos\\MyUdemy20Project\\Project2_EntityFrameworkDbFirstProduct\\FrmProduct.cs",
-              "RelativeToolTip": "Project2_EntityFrameworkDbFirstProduct\\FrmProduct.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAADwv0AAAAAbAAAAAAAAAA==",
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\e\\source\\repos\\MyUdemy20Project\\Project3_EntityFrameworkStatistics\\Form1.cs",
+              "RelativeDocumentMoniker": "Project3_EntityFrameworkStatistics\\Form1.cs",
+              "ToolTip": "C:\\Users\\e\\source\\repos\\MyUdemy20Project\\Project3_EntityFrameworkStatistics\\Form1.cs",
+              "RelativeToolTip": "Project3_EntityFrameworkStatistics\\Form1.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwEIAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T18:15:58.604Z",
+              "WhenOpened": "2025-02-22T18:06:33.251Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FrmProduct.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\e\\source\\repos\\MyUdemy20Project\\Project2_EntityFrameworkDbFirstProduct\\FrmProduct.cs",
-              "RelativeDocumentMoniker": "Project2_EntityFrameworkDbFirstProduct\\FrmProduct.cs",
-              "ToolTip": "C:\\Users\\e\\source\\repos\\MyUdemy20Project\\Project2_EntityFrameworkDbFirstProduct\\FrmProduct.cs [Design]",
-              "RelativeToolTip": "Project2_EntityFrameworkDbFirstProduct\\FrmProduct.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T17:52:34.442Z",
-              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "FrmCategory.cs",
-              "DocumentMoniker": "C:\\Users\\e\\source\\repos\\MyUdemy20Project\\Project2_EntityFrameworkDbFirstProduct\\FrmCategory.cs",
-              "RelativeDocumentMoniker": "Project2_EntityFrameworkDbFirstProduct\\FrmCategory.cs",
-              "ToolTip": "C:\\Users\\e\\source\\repos\\MyUdemy20Project\\Project2_EntityFrameworkDbFirstProduct\\FrmCategory.cs",
-              "RelativeToolTip": "Project2_EntityFrameworkDbFirstProduct\\FrmCategory.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwB8AAAAkAAAAAAAAAA==",
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\e\\source\\repos\\MyUdemy20Project\\Project3_EntityFrameworkStatistics\\Form1.cs",
+              "RelativeDocumentMoniker": "Project3_EntityFrameworkStatistics\\Form1.cs",
+              "ToolTip": "C:\\Users\\e\\source\\repos\\MyUdemy20Project\\Project3_EntityFrameworkStatistics\\Form1.cs [Design]",
+              "RelativeToolTip": "Project3_EntityFrameworkStatistics\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T15:40:39.137Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FrmCategory.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\e\\source\\repos\\MyUdemy20Project\\Project2_EntityFrameworkDbFirstProduct\\FrmCategory.cs",
-              "RelativeDocumentMoniker": "Project2_EntityFrameworkDbFirstProduct\\FrmCategory.cs",
-              "ToolTip": "C:\\Users\\e\\source\\repos\\MyUdemy20Project\\Project2_EntityFrameworkDbFirstProduct\\FrmCategory.cs [Design]",
-              "RelativeToolTip": "Project2_EntityFrameworkDbFirstProduct\\FrmCategory.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T13:58:20.829Z",
+              "WhenOpened": "2025-02-22T16:55:14.084Z",
               "EditorCaption": " [Design]"
             }
           ]
